@@ -1,0 +1,43 @@
+body{
+   background-image: linear-gradient(to right, cyan, blue, teal);
+}
+ul{
+	list-style-type: none;
+	display: flex;
+}
+	ul li{
+	padding-left: 150px;
+	margin-top: 30px;
+
+}
+a:hover{
+	color: red;
+}
+a{
+	text-decoration: none;
+	color: white;
+	height: 90px;
+
+
+}
+ul li{
+	padding-left: 150px;
+	margin-top: 30px;
+}
+button{
+	width: 100px;
+	height: 45px;
+	color: red;
+	background-color: cyan;
+}
+footer img{
+	width: 60px;
+	height:60px;
+}
+footer{
+	position: fixed;
+	bottom: 0;
+} #login{
+	position: fixed;
+	right: 0;
+}
